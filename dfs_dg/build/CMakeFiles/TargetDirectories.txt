@@ -1,0 +1,3 @@
+/Users/matteo/git_repository/SearchAlgo/dfs_dg/build/CMakeFiles/dfs.dir
+/Users/matteo/git_repository/SearchAlgo/dfs_dg/build/CMakeFiles/edit_cache.dir
+/Users/matteo/git_repository/SearchAlgo/dfs_dg/build/CMakeFiles/rebuild_cache.dir

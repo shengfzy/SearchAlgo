@@ -1,0 +1,3 @@
+/Users/matteo/git_repository/SearchAlgo/bfs_dg/build/CMakeFiles/bfs.dir
+/Users/matteo/git_repository/SearchAlgo/bfs_dg/build/CMakeFiles/edit_cache.dir
+/Users/matteo/git_repository/SearchAlgo/bfs_dg/build/CMakeFiles/rebuild_cache.dir
